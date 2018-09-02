@@ -72,7 +72,7 @@ Then, install the dependencies to Dopamine:
 
 ```
 sudo apt-get install cmake zlib1g-dev
-pip install absl-py atari-py gin-config gym opencv-python tensorflow
+pip install absl-py atari-py gin-config gym opencv-python tensorflow-gpu
 ```
 
 During installation, you may safely ignore the following error message:
